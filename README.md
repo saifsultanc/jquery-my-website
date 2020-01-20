@@ -1,1 +1,1 @@
-This is a simple JQuery + CSS website.
+My previous personal website. Made with jQuery and CSS.
